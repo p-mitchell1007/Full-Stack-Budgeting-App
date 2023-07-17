@@ -1,0 +1,58 @@
+module.exports = [
+    {
+        id: 0,
+        item_name: "rent",
+        amount: -1000,
+        date: "07/09/2013",
+        from: "landlord",
+        category: "living expenses",
+    },
+    { 
+        id: 1,
+        item_name: "salary",
+        amount: 2000,
+        date: "07/01/2013",
+        from: "employer",
+        category: "income",
+    },
+    {
+        id: 2,
+        item_name: "grocery",
+        amount: -100,
+        date: "07/03/2023",
+        from: "grocery store",
+        category: "food",
+    },
+    {
+        id: 3,
+        item_name: "phone bill",
+        amount: -50,
+        date: "07/05/2023",
+        from: "phone company",
+        category: "utilities",
+    },
+    {
+        id: 4,
+        item_name: "pet supplies",
+        amount: -30,
+        date: "07/07/2023",
+        from: "pet store",
+        category: "pets",
+    },
+    {
+        id: 5,
+        item_name: "restaurant",
+        amount: -75,
+        date: "07/09/2023",
+        from: "local bistro",
+        category: "food",
+    },
+    {
+        id:6,
+        item_name: "savings deposit",
+        amount: 500,
+        date: "07/10/2023",
+        from: "bank",
+        category: "savings",
+    }
+]
